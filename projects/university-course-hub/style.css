@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: #020513;
+    background-color: #f3f6fa;
+}
+
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border: 2px solid gray;
+    background-color: white;
+}
+
+h1 {
+    font-weight:bold;
+    font-style:italic;
+    text-align: center;
+    color: rgb(235, 22, 160);
+}
+
+h2 {
+    color: rgb(165, 88, 142);
+    border-bottom: 2px solid gray;
+}
+
+#menu li {
+    display: inline;
+    margin-right: 15px;
+}   
+
+a {
+    color: rgb(165, 88, 142);
+}
+
+.course-list {
+    list-style-type: square;
+}
+
+.course-list li {
+    border: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.badge {
+    background-color: rgb(94, 170, 228);
+    padding: 10px;
+    border: 2px solid gray;
+}
